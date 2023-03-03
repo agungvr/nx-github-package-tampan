@@ -5,9 +5,7 @@
   "repository": "https://github.com/agungvr/nx-github-package-tampan",
   "homepage": "https://github.com/agungvr/nx-github-package-tampan#readme",
   "publishConfig": {
-    "access": "public",
-    "@agungvr/registry": "https://npm.pkg.github.com/",
-    "tag": "latest"
+    "registry": "https://npm.pkg.github.com/"
   },
   "exports": {
     ".": {

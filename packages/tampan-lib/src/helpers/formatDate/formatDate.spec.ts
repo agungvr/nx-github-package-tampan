@@ -119,19 +119,18 @@ describe('getMonthListStartFromThisMonth', () => {
     const startDate = dayjs()
     const lengthOfList = 3
     const format = 'MMMM, YYYY'
-    const locale = 'id'
-    const result = getMonthListStartFromThisMonth({ startDate, lengthOfList, format, locale })
+    const result = getMonthListStartFromThisMonth({ startDate, lengthOfList, format })
     expect(result).toEqual([
       {
-        formatedDate: dayjs().locale('id').format('MMMM, YYYY'),
+        formatedDate: dayjs().format('MMMM, YYYY'),
         date: dayjs(),
       },
       {
-        formatedDate: dayjs().locale('id').add(1, 'month').format('MMMM, YYYY'),
+        formatedDate: dayjs().add(1, 'month').format('MMMM, YYYY'),
         date: dayjs().add(1, 'month'),
       },
       {
-        formatedDate: dayjs().locale('id').add(2, 'month').format('MMMM, YYYY'),
+        formatedDate: dayjs().add(2, 'month').format('MMMM, YYYY'),
         date: dayjs().add(2, 'month'),
       },
     ])
