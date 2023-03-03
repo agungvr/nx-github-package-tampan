@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/agungvr/nx-github-package-tampan/compare/eslint-config-tampan-lint-v1.0.1...eslint-config-tampan-lint-v1.0.2) (2023-03-03)
+
+
+### Bug Fixes
+
+* access public ([60cc4f5](https://github.com/agungvr/nx-github-package-tampan/commit/60cc4f56a762df27d8361a7487d9753875e493f4))
+* access restricted ([bf5a97a](https://github.com/agungvr/nx-github-package-tampan/commit/bf5a97a10de79738aaaca0eb8c0b6af847e0d434))
+* wew ([1eb0373](https://github.com/agungvr/nx-github-package-tampan/commit/1eb037374d9a3e91472fd98bcb4e5eb6cc834798))
+
 ## [1.0.1](https://github.com/agungvr/nx-github-package-tampan/compare/eslint-config-tampan-lint-v1.0.0...eslint-config-tampan-lint-v1.0.1) (2023-03-03)
 
 
