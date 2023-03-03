@@ -1,11 +1,12 @@
 {
-  "name": "eslint-config-tampan-lint",
+  "name": "@agungvr/eslint-config-tampan-lint",
   "version": "0.0.0-semantic-release",
   "type": "commonjs",
   "repository": "https://github.com/agungvr/nx-github-package-tampan",
+  "homepage": "https://github.com/agungvr/nx-github-package-tampan#readme",
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/",
+    "registry": "https://npm.pkg.github.com",
+    "@agungvr/registry": "https://npm.pkg.github.com/",
     "tag": "latest"
   },
   "exports": {
