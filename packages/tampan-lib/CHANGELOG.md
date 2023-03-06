@@ -1,3 +1,15 @@
+## [1.2.1](https://github.com/agungvr/nx-github-package-tampan/compare/tampan-lib-v1.2.0...tampan-lib-v1.2.1) (2023-03-06)
+
+
+### Bug Fixes
+
+* access public ([60cc4f5](https://github.com/agungvr/nx-github-package-tampan/commit/60cc4f56a762df27d8361a7487d9753875e493f4))
+* access restricted ([bf5a97a](https://github.com/agungvr/nx-github-package-tampan/commit/bf5a97a10de79738aaaca0eb8c0b6af847e0d434))
+* add intance and formatDate ([64c05ce](https://github.com/agungvr/nx-github-package-tampan/commit/64c05ce5e5bdf341f7bafa058712cf1346ed00a0))
+* update ([e33d46d](https://github.com/agungvr/nx-github-package-tampan/commit/e33d46dc5f1a2f76edddc71a3eb0be6a4cfdf33a))
+* update registry ([1eba8fc](https://github.com/agungvr/nx-github-package-tampan/commit/1eba8fc8cb07106a6141f397155b89f893be3880))
+* wew ([1eb0373](https://github.com/agungvr/nx-github-package-tampan/commit/1eb037374d9a3e91472fd98bcb4e5eb6cc834798))
+
 # [1.2.0](https://github.com/agungvr/nx-github-package-tampan/compare/tampan-lib-v1.1.0...tampan-lib-v1.2.0) (2023-01-30)
 
 
